@@ -1,7 +1,7 @@
 # semicolon; a blog web app
 *take a pause; write your thoughts.*<br>
 a simple blog web app built using express, node.js, and ejs! deployed on render.<br><br>
-live demo -> [semicolon;](https://semicolon-oal4.onrender.com/)
+live demo → [semicolon;](https://semicolon-oal4.onrender.com/)
 
 ## ᯓ★ features
 - post viewing: all posts displayed on the blog page, sorted by most recent
@@ -33,6 +33,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 ## ᯓ★ notes
 - posts do not persist (reset on restart)
 - currently a shared space, anyone with the link can see all posts
+- mocked up in figma; view the file here → [blog mockup](https://www.figma.com/design/MevXyVPXva88u5XuFNsqMi/blog-mockup?node-id=0-1&t=3hTcf9aZVZ5F5LUw-1)
 
 ## ᯓ★ future improvements
 - user authentication and authorization
