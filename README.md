@@ -3,18 +3,18 @@
 a simple blog web app built using express, node.js, and ejs! deployed on render.<br><br>
 live demo → [semicolon;](https://semicolon-oal4.onrender.com/)
 
-## ᯓ★ features
+## ⭑ features
 - post viewing: all posts displayed on the blog page, sorted by most recent
 - post creation: users can create new blog posts via a form
 - post editing/deleting: users can edit or delete existing posts, updating date posted
 
-## ᯓ★ tech stack
+## ⭑ tech stack
 - node.js + express
 - ejs templating
 - bootstrap + custom css
 - render
 
-## ᯓ★ usage
+## ⭑ usage
 1. clone repo
 ```
 git clone
@@ -30,12 +30,12 @@ npm start
 ```
 4. open [http://localhost:3000](http://localhost:3000) in your browser
 
-## ᯓ★ notes
+## ⭑ notes
 - posts do not persist (reset on restart)
 - currently a shared space, anyone with the link can see all posts
 - mocked up in figma; view the file here → [blog mockup](https://www.figma.com/design/MevXyVPXva88u5XuFNsqMi/blog-mockup?node-id=0-1&t=3hTcf9aZVZ5F5LUw-1)
 
-## ᯓ★ future improvements
+## ⭑ future improvements
 - user authentication and authorization
 - persistent storage
 - image uploads
